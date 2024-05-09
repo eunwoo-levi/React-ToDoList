@@ -1,8 +1,7 @@
 React - To-Do-List
 
 <Website>
-[https://eunwoo-todolist.netlify.app](https://eunwoo-react-todolist.netlify.app]
-
+https://eunwoo-react-todolist.netlify.app/
 
 
 
